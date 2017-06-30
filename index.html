@@ -5,10 +5,11 @@ title: Thomas Lechner in Japan
 <div class="blurb">
 	<h1>Hi!</h1>
 	<p>Im currently in Japan.</p>
-</div>
 	<ul class="posts">
-
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
+		{% for post in site.posts %}
+	    	<li>
+		<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" 			title="{{ post.title }}">{{ post.title }}</a></li>
+	  	{% endfor %}
 	</ul>
+</div>
+	
