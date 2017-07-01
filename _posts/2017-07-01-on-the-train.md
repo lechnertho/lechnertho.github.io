@@ -13,11 +13,12 @@ Zeilenumbrüche bzw. Paragraphen sind einfach.
 So gehen Bilder:
 
 ![umbrella](/images/resized/umbrella_in_train_to_ffm.jpg)
+{: style="text-align: center"}
 
 Ich kann sogar Videos einbinden. Vielleicht hab ich sogar Zeit ein paar Videos zu machen und hochzuladen.
 
-
+<center>
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/CLxntu0QIFA" frameborder="0" allowfullscreen="true" width="640" height="480"> </iframe>
 </figure>
-
+</center>
