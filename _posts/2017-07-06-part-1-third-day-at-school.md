@@ -17,3 +17,5 @@ Leider habe ich nachmittags Unterricht(von 13.00 bis 16.15). Würde mir hier ger
 {: style="text-align: center"}
 Uhr aus Wasserfontainen
 {: style="text-align: center"}
+
+*So habe wieder aufgeholt mit den Beiträgen. Werde mir jetzt wieder etwas mehr Mühe geben interessantere Beiträge zu schreiben.*
