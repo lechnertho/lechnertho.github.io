@@ -41,4 +41,4 @@ Nachmittags hatte ich dann Unterricht. Ich wurde den Anfängern zugeteilt. Vom N
 Laaaaamen
 {: style="text-align: center"}
 
-Nach dem Unterricht bin dann zusammen mit meinen neuen Mitschülerinnen in ein Ramen Restaurant gegangen. Sehr lecker!
+Nach dem Unterricht bin ich dann zusammen mit meinen neuen Mitschülerinnen in ein Ramen Restaurant gegangen. Sehr lecker!
