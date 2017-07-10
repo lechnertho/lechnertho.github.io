@@ -29,7 +29,7 @@ Ich habe dann "All Star" gesungen.
 
 <center>
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/watch?v=L_jWHffIx5E" frameborder="0" allowfullscreen="true" width="640" height="480"> </iframe>
+  <iframe width="854" height="480" src="https://www.youtube.com/embed/L_jWHffIx5E" frameborder="0" allowfullscreen></iframe>
 </figure>
 </center>
 
